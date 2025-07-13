@@ -22,8 +22,6 @@ A responsive weather web application built using **React**, **TypeScript**, and 
 <img width="390" height="643" alt="Screenshot 2025-07-13 145808" src="https://github.com/user-attachments/assets/8ed93bdf-d413-49fe-a190-86d7a8007188" />
 
 
-![Demo Screenshot](https://user-images.githubusercontent.com/your-placeholder-image-url.png)
-
 ---
 
 ## 🛠️ Tech Stack
