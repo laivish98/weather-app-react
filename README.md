@@ -102,7 +102,7 @@ Laivish Sharma
 
 ---
 
-## 📸 Demo
+## 📸 Output
 
 <img width="414" height="678" alt="Image" src="https://github.com/user-attachments/assets/3682d2cc-7467-4f24-87c4-6da4a7f1f750" />
 <img width="390" height="643" alt="Image" src="https://github.com/user-attachments/assets/221aefae-e0bc-4984-bf91-9a6b9f0d1257" />
