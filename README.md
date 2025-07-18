@@ -13,7 +13,7 @@ $DOMAIN *: MERN STACK WEB DEVELOPMENT
 *MENTOR *: NEELA SANTOSH
 
 
-A responsive weather web application built using **React**, **TypeScript**, and **Vite**, integrated with the **OpenWeatherMap API**. Users can search for any city worldwide and view real-time temperature, humidity, and weather conditions with dynamic backgrounds based on weather.
+## A responsive weather web application built using **React**, **TypeScript**, and **Vite**, integrated with the **OpenWeatherMap API**. Users can search for any city worldwide and view real-time temperature, humidity, and weather conditions with dynamic backgrounds based on weather.
 
 ---
 
@@ -98,15 +98,9 @@ weather-app-react/
 
 
 
-
 🌐 API Reference
-This app uses the OpenWeatherMap Current Weather Data API:
 📖 https://openweathermap.org/current
 
-
-
-🙌 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
 
 👨‍💻 Author
