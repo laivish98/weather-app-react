@@ -28,15 +28,6 @@ $DOMAIN *: MERN STACK WEB DEVELOPMENT
 
 ---
 
-## 📸 Demo
-
-<img width="410" height="644" alt="Screenshot 2025-07-13 145839" src="https://github.com/user-attachments/assets/28083098-9a5c-4312-bfc8-2217b3bad2f3" />
-<img width="414" height="678" alt="Screenshot 2025-07-13 145541" src="https://github.com/user-attachments/assets/5bd75fdf-62a1-44d7-91d4-645dc9ec8b03" />
-<img width="390" height="643" alt="Screenshot 2025-07-13 145808" src="https://github.com/user-attachments/assets/8ed93bdf-d413-49fe-a190-86d7a8007188" />
-
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, TypeScript
@@ -46,6 +37,10 @@ $DOMAIN *: MERN STACK WEB DEVELOPMENT
 
 ---
 
+## 📸 Demo
+
+
+---
 ## 🧑‍💻 Getting Started
 
 ### 1. Clone the Repository
