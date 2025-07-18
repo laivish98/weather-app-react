@@ -51,9 +51,6 @@ cd weather-app-react
 
 2. Install Dependencies
 
-
-bash
-Copy code
 npm install
 
 
@@ -62,21 +59,16 @@ npm install
 Create a .env file in the root:
 
 env
-Copy code
 VITE_WEATHER_API_KEY=your_openweathermap_api_key
 🔒 Never expose your API key in public repositories.
 
 
 4. Run the App Locally
-bash
-Copy code
 npm run dev
 
 
 
 📁 Project Structure
-pgsql
-Copy code
 weather-app-react/
 ├── public/
 ├── src/
