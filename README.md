@@ -1,4 +1,17 @@
-# 🌦️ Weather App
+# Weather-App-React
+
+*COMPANY *: CODTECH IT SOLUTIONS
+
+*NAME *: Laivish Sharma
+
+$INTERN ID *: CT06DF1875 
+
+$DOMAIN *: MERN STACK WEB DEVELOPMENT
+
+*DURATION *: 6 WEEEKS
+
+*MENTOR *: NEELA SANTOSH
+
 
 A responsive weather web application built using **React**, **TypeScript**, and **Vite**, integrated with the **OpenWeatherMap API**. Users can search for any city worldwide and view real-time temperature, humidity, and weather conditions with dynamic backgrounds based on weather.
 
@@ -92,25 +105,9 @@ This app uses the OpenWeatherMap Current Weather Data API:
 
 
 
-
-📦 Deployment
-You can deploy this app using:
-
-Vercel
-
-Netlify
-
-GitHub Pages (with static build)
-
-
 🙌 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
-📄 License
-This project is licensed under the MIT License.
 
 👨‍💻 Author
 Laivish Sharma
-
-⭐ Show Your Support
-If you like this project, please consider giving it a ⭐ on GitHub!
