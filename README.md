@@ -90,11 +90,12 @@ weather-app-react/
 └── vite.config.ts
 ```
 
+---
 
 🌐 API Reference
 📖 https://openweathermap.org/current
 
-
+---
 
 👨‍💻 Author
 Laivish Sharma
